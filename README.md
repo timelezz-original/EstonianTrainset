@@ -1,2 +1,2 @@
 # EstonianTrainset
-It's the most time consuming project at the moment. Long story short - it's newgrf (mod) for a game called OpenTTD (www.openttd.org). It contains many different trains from Estonia through 20. century and 21. century.
+It will contain different trains used in Estonia throughout the last two centuries. It's my longest unfinished project at the moment. The development has seen brighter days, the process is currently halted due to the lack of skills, a very particular set of skills that would really help me draw better train sprites. Until then I'll try to keep up with the quick acceleration of life. 
